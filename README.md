@@ -14,3 +14,7 @@
 ## User login
 - email : admin@gmail.com
 - password : x
+
+## teknologi
+- Laravel 8
+- VueJs 2.6
