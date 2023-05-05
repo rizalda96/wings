@@ -12,5 +12,5 @@
 - npm run watch
 
 ## User login
-- admin@gmail.com
-- x
+- email : admin@gmail.com
+- password : x
